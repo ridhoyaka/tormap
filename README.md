@@ -46,4 +46,6 @@ sudo apt install arp-scan
 
 ## Usage
 
+```bash
 python3 main.py
+```
