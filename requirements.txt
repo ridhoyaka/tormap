@@ -1,0 +1,6 @@
+pyfiglet
+colorama
+termcolor
+python-nmap
+rich
+halo
