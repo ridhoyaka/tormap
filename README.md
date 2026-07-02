@@ -36,7 +36,7 @@ This project is created mainly for learning, experimentation, and basic network 
 
 Clone the repository :
 ```bash
-git clone https://github.com/yourusername/tormap.git
+git clone https://github.com/ridhoyaka/tormap.git
 cd tormap
 pip install -r requirements.txt
 sudo apt install arp-scan
